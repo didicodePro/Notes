@@ -1,0 +1,27 @@
+TODO avant 10 mars
+===
+
+15 - 16 fev ==> facturier || app To-do/Kanban Nom: do-it avec un button/CTA just do it 
+
+Filepond - upload de fichier 
+Swiper - Slider
+Muuri - grid drag&drop
+SortableJS - trie grid drag&drop
+
+22 - 23 fev ==> Markdown Previewer Front  
+Editor.js OU TynyMCE - editeur
+Markdown previewer(pour creer des pdf de cours un peu comme sur dyma, possibilite d'incorperer des schema en utilisant excalidraw😁, possibilite d'indiquer la liste de tout les mots qu'on veux mettre en subrillance(mot technique)), par defaut le background est blanc mais on a la possibilite de changer le background on peut mm avoir des background avec motif(Hero Pattern => motif background), Telechargement en pdf et en markdown
+
+https://stackedit.io/app#
+https://markdownlivepreview.com/
+https://dillinger.io/
+
+Mermaid Chart extension vscode/
+
+01 - 02 mar ==> Refactoriser mon Portfolio en react (multipage, blog, ssr(Nextjs)) 
+
+Authentification google OAuth2 ==> google-auth-library
+
+10 mars ==> recommencer a postuler pour stage/job 
+mars-mai ==> consacre au mise a jour des different projets
+
