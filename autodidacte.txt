@@ -21,3 +21,4 @@ Sat Chap19 Auth JWT 4h41 ✅
 
 job dev vuejs ==> https://www.rh.ulaval.ca/emploi/HCM/9332/emplois-personnel-professionnel
 
+formation big data https://dtn.podia.com/devenir-freelance-informatique?coupon=RS4UNV7
